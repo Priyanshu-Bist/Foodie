@@ -1,2 +1,2 @@
 # FOODIES
-My first project website only using CSS and HTML
+Project on creating a prototype of a website.
